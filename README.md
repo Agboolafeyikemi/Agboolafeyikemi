@@ -2,8 +2,8 @@
 
 
 
-. 🔭 I’m currently working on 
-- 🌱 I’m currently learning to build Web3 apps.
+- 🔭 I’m currently working on Alerzo https://www.alerzo.com/
+- 🌱 I’m currently learning how to build Web3 apps.
 - 👯 I’m looking to collaborate on Frontend matters
 - 🤔 I’m looking for help with Web3🤣
 - 💬 Ask me about Javascript
