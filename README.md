@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Alerzo: https://www.alerzo.com/
+- 🔭 I’m currently working on Youverify: https://agent-training.dev.youverify.co
 - 🌱 I’m currently learning how to build Web3 apps.
 - 👯 I’m looking to collaborate on Frontend matters
 - 🤔 I’m looking for help with Web3🤣
